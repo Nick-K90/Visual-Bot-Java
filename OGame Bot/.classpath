@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="var" path="USER_HOME/Downloads/jnativehook-2.1.20170802.062507-36.jar"/>
+	<classpathentry kind="output" path="out/production/OGame Bot"/>
+</classpath>
